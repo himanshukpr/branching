@@ -20,6 +20,7 @@ function App() {
   return (
     <div className="app-container">
       <header>
+        <h2>jaiveer baby</h2>
         <h1>Draggable Components</h1>
         <p className="subtitle">Drag and position the cards anywhere on the board</p>
       </header>
